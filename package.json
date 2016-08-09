@@ -1,6 +1,6 @@
 {
   "name": "log4js-node-sentry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Sentry appender for log4js-node",
   "main": "lib/index.js",
   "repository": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/theartoflogic/log4js-node-sentry",
   "dependencies": {
-    "raven": "^0.7.1",
-    "log4js": "~0.6.9"
+    "raven": "^0.12.1",
+    "log4js": "^0.6.37"
   }
 }
