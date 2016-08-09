@@ -1,5 +1,5 @@
 {
-  "name": "log4js-node-sentry",
+  "name": "log4js-sentry",
   "version": "1.0.1",
   "description": "A Sentry appender for log4js-node",
   "main": "lib/index.js",
